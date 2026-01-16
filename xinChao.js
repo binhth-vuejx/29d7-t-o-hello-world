@@ -1,5 +1,5 @@
 function xinChao() {
-  console.log("xin chao");
+  console.log("đã kiểm tra AI model local thành công");
 }
 
 xinChao();
